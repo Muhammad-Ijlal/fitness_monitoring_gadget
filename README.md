@@ -36,5 +36,5 @@ the SD Card attached is used to measure the save the measurements performed for 
 ## Results
 1. A graph of 500 readings taken from heart beat sensor after removing the noisy signals from it.
 ![Heart Beat Graph](/HeartBeat_Sensor_results.png)
-2. Speed (m/s) and Heart beat (bpm) graphs.
-![Graph of recorded Speed(m/s) and HeartBeat(bpm)](/Speed_and_HeartBeat_graph.png)
+2. Speed (m/s) and Heart beat (bpm) graphs
+---![Graph of recorded Speed(m/s) and HeartBeat(bpm)](/Speed_and_HeartBeat_graph.png)
