@@ -35,7 +35,9 @@ Bluetooth module is required to send the measured speed to arm mounted piece for
 the SD Card attached is used to measure the save the measurements performed for later use.
 ## Results
 A grapf of 500 readings taken from HeartBeat sensor after noise removal.
+
 ![Heart Beat Sensor Readings Graph](/HeartBeat_Sensor_results.png)
 
-Speed (m/s) and HeartBeat (bpm) graph
+Speed (m/s) and HeartBeat (bpm) graph.
+
 ![Speed (m/s) and HeartBeat (bpm) graph](/Speed_and_HeartBeat_graph.png)
