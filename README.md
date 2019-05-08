@@ -34,7 +34,7 @@ The major function of the foot mounted piece is to measure speed using accelerom
 Bluetooth module is required to send the measured speed to arm mounted piece for display. Further,
 the SD Card attached is used to measure the save the measurements performed for later use.
 ## Results
-1. A graph of 500 readings taken from heart beat sensor after removing the noisy signals from it.
+A graph of 500 readings taken from heart beat sensor after removing the noisy signals from it.
 ![Heart Beat Graph](/HeartBeat_Sensor_results.png)
-2. Speed (m/s) and Heart beat (bpm) graphs
----![Graph of recorded Speed(m/s) and HeartBeat(bpm)](/Speed_and_HeartBeat_graph.png)
+Speed (m/s) and Heart beat (bpm) graphs
+![Graph of recorded Speed(m/s) and HeartBeat(bpm)](/Speed_and_HeartBeat_graph.png)
